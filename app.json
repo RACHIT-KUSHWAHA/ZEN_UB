@@ -1,7 +1,7 @@
 {
   "name": "ZenUserBot",
   "description": "One of the best Userbot for Telegram. Known for its Smoothness, Design, Support.",
-  "logo": "https://telegra.ph/file/5cadf9784f067a75dc51c.jpg",
+  "logo": "https://telegra.ph/file/744aa4db81bf441132be0.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -11,7 +11,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/xabhish3k/waruserbot/",
+  "repository": "https://github.com/Z3N-0P/ZEN_UB/",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
