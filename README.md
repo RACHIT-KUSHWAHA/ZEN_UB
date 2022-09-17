@@ -1,4 +1,4 @@
-<h1 align="center">❤️ 𝐙𝐄𝐍 𝐔𝐁 ❤️</h1>
+<h1 align="center">𓆩 𝐙𝐄𝐍 𝐔𝐁 𓆪</h1>
 
 <p align="center">
   <img src="https://telegra.ph/file/744aa4db81bf441132be0.jpg">
