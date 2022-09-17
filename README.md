@@ -1,4 +1,8 @@
-<h1 align="center">❤️ 𝐙𝐄𝐍_𝐔𝐁 ❤️</h1>
+<h1 align="center">❤️ 𝐙𝐄𝐍 𝐔𝐁 ❤️</h1>
+
+<p align="center">
+  <img src="https://telegra.ph/file/744aa4db81bf441132be0.jpg">
+</p>
 
   <h2 align= "center" >The owner would not be responsible for any kind of bans due to the bot.</h2>
   
